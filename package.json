@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Nithya-Varshini/portfolio/issues"
   },
-  "homepage": "https://github.com/Nithya-Varshini/portfolio#readme"
+  "homepage": "https://github.com/Nithya-Varshini/portfolio#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "bootstrap": "^5.2.3",
+    "bootstrap-social": "^5.1.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
 }
