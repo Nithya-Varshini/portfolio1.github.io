@@ -102,7 +102,7 @@ function Home() {
             </div>
   
 
-            <footer className='container' style={{ backgroundColor: "palegold" }}>
+            <footer className='container' style={{ backgroundColor: "goldenrod" }}>
                 <div className='row'>
                     <div class=" offset-md-5">
                         <div className='col-12 align-self-center'>
